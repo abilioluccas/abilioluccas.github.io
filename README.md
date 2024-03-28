@@ -17,7 +17,7 @@ Now I'm looking for a challenge that will allow me to continue learning and evol
 - **Code For All**
   - Java && JavaScript 14 Week Bootcamp (2023 - 2024)
 - **IBMR**
-  - Psychologist
+  - Psychologist (2008 - 2012)
 
 ### Skills
 - Java
@@ -39,7 +39,7 @@ Now I'm looking for a challenge that will allow me to continue learning and evol
   - Truck Driver (2020 - 2023)
 
 - **Psychologist**
-  - (2012 - 2019)
+  - (2013 - 2019)
 
 - **Transportes Santo Antônio LTDA**
   - Administrative Assistant (2010 - 2019)
