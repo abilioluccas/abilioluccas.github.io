@@ -53,5 +53,5 @@ Now I'm looking for a challenge that will allow me to continue learning and evol
 - **COPPEAD UFRJ**
   - Internship (2003 - 2004)
     - Computer maintenance and user assistance.
-      
+
 ---
